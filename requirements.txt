@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Data fetching
+yfinance
+requests
+newsapi-python
+
+# NLP / ML
+torch
+transformers
+sentencepiece
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Backtesting utils
+quantstats   # nice for performance metrics
